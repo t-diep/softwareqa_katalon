@@ -24,11 +24,13 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://devaccount.regentsscholarship.org/login')
 
+WebUI.maximizeWindow()
+
 WebUI.click(findTestObject('Page_Login - Regents Scholarship/input_signUpId'))
 
 WebUI.click(findTestObject('Page_Login - Regents Scholarship/button_Close'))
 
-WebUI.setText(findTestObject('Page_Login - Regents Scholarship/input_username'), 'tdrs061818')
+WebUI.setText(findTestObject('Page_Login - Regents Scholarship/input_username'), 'tdrs061818c')
 
 WebUI.setText(findTestObject('Page_Login - Regents Scholarship/input_password'), 'Welcome01')
 
@@ -38,13 +40,9 @@ WebUI.setText(findTestObject('Page_Login - Regents Scholarship/input_firstName')
 
 WebUI.setText(findTestObject('Page_Login - Regents Scholarship/input_lastName'), 'tdrs061818')
 
-WebUI.setText(findTestObject('Page_Login - Regents Scholarship/input_emailAddress'), 'tdrs061818@hkconsulting.biz')
+WebUI.setText(findTestObject('Page_Login - Regents Scholarship/input_emailAddress'), 'tdrs061818c@hkconsulting.biz')
 
-WebUI.setText(findTestObject('Page_Login - Regents Scholarship/input_confirm_email'), 'trs061818@hkconsulting.biz')
-
-WebUI.setText(findTestObject('Page_Login - Regents Scholarship/input_phoneNumber'), '55')
-
-WebUI.setText(findTestObject('Page_Login - Regents Scholarship/input_confirm_email'), 'tdrs061818@hkconsulting.biz')
+WebUI.setText(findTestObject('Page_Login - Regents Scholarship/input_confirm_email'), 'tdrs061818c@hkconsulting.biz')
 
 WebUI.setText(findTestObject('Page_Login - Regents Scholarship/input_phoneNumber'), '(505) 555-0006')
 
@@ -72,15 +70,13 @@ WebUI.click(findTestObject('Page_Personal Information/a_1'))
 
 WebUI.click(findTestObject('Page_Personal Information/div_Social Security Number'))
 
-WebUI.setText(findTestObject('Page_Personal Information/input_personalInfoDTO.ssn'), '999-99-999')
+WebUI.setText(findTestObject('Page_Personal Information/input_personalInfoDTO.ssn'), '999-99-9997')
 
 WebUI.click(findTestObject('Page_Personal Information/p_Please create a 4 digit PIN.'))
 
-WebUI.setText(findTestObject('Page_Personal Information/input_pinNumber'), '9999')
+WebUI.setText(findTestObject('Page_Personal Information/input_pinNumber'), '9997')
 
 WebUI.click(findTestObject('Page_Personal Information/div_How would you like to be n'))
-
-WebUI.setText(findTestObject('Page_Personal Information/input_personalInfoDTO.ssn'), '999999999')
 
 WebUI.click(findTestObject('Page_Personal Information/input_personalInfoDTO.hasCrimi'))
 
@@ -630,7 +626,7 @@ WebUI.click(findTestObject('Page_Regents Scholarship Form Revie/input_agreeTerms
 
 WebUI.click(findTestObject('Page_Regents Scholarship Form Revie/div_Submit'))
 
-WebUI.setText(findTestObject('Page_Regents Scholarship Form Revie/input_pinNumber'), '9999')
+WebUI.setText(findTestObject('Page_Regents Scholarship Form Revie/input_pinNumber'), '9997')
 
 WebUI.click(findTestObject('Page_Regents Scholarship Form Revie/button_Submit'))
 

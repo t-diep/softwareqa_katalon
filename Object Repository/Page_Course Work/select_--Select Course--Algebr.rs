@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_--Select Course--Algebr</name>
+   <tag></tag>
+   <elementGuidId>2174a9c1-e80c-408c-a5dc-9c9c65dfb48d</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control modalCourseId</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>courseId</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>courseId</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>--Select Course--Algebra 1Algebra 1 HAlgebra 2Algebra 2 HBYU Indep Algebra 055 Alg 2, Part 1BYU Indep Algebra 057 Alg 2, Part 2BYU Indep Calc 041: Precalculus 1BYU Indep Calc 043: Precalculus 2BYU Indep GEOM 041: Plane Geometry 1BYU Indep GEOM 043: Plane Geometry 2BYU Indep Math 051: Sec Math 1, Part 1BYU Indep Math 052: Sec Math 1, Part 2BYU Indep Math 053: Sec Math 2, Part 1BYU Indep Math 054: Sec Math 2, Part 2BYU Indep Math 055: Sec Math 3, Part 1BYU Indep Math 056: Sec Math 3, Part 2CalculusCalculus HGeometryGeometry HIntermediate AlgebraIntermediate Algebra HIntuitive CalculusPre CalculusPre Calculus HSecondary Math 1Secondary Math 1 HSecondary Math 2Secondary Math 2 HSecondary Math 3Secondary Math 3 HStatisticsOther</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;courseId&quot;)</value>
+   </webElementProperties>
+</WebElementEntity>

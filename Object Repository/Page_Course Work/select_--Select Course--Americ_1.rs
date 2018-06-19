@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_--Select Course--Americ_1</name>
+   <tag></tag>
+   <elementGuidId>5fc0257d-5d05-4cb5-aabf-86651a60414f</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control modalCourseId</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>courseId</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>courseId</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>--Select Course--American Sign Language 1American Sign Language 1 HAmerican Sign Language 2American Sign Language 2 HAmerican Sign Language 3American Sign Language 3 HAmerican Sign Language 4Arabic 1Arabic 2Arabic 3BYU Indep Arabic 041 1st  year part 1BYU Indep Arabic 043 1st  year part 2BYU Indep Arabic 051 2nd year part 1BYU Indep Arabic 053 2nd  year part 2BYU Indep Chinese 041 1st  year part 1BYU Indep Chinese 042, Level 1BYU Indep Chinese 043 1st  year part 2BYU Indep Chinese 051 2nd  year part 1BYU Indep Chinese 053 2nd year part 2BYU Indep French 041 1st year part 1BYU Indep French 043 1st year part 2BYU Indep French 051 2nd year part 1BYU Indep French 053 2nd year part 2BYU Indep Russian 041 1st Year Part 1BYU Indep Russian 043 1st Year Part 2BYU Indep Russian 051 2nd Year Part 1BYU Indep Russian 053 2nd Year Part 2BYU Indep Spanish 41 1st year Span 1BYU Indep Spanish 43 1st year Span 2BYU Indep Spanish 51 2nd year Span 1BYU Indep Spanish 53 2nd year Span 2BYU Indep Spanish 61 3rd year Span 1BYU Indep Spanish 63 3rd year Span 2Chinese 1Chinese 1 HChinese 2Chinese 2 HChinese 3Chinese 3 HChinese 4Chinese 4 HChinese 5French 1French 1 HFrench 2French 2 HFrench 3French 3 HFrench 4French 4 HFrench 5German 1German 2German 2 HGerman 3German 3 HGerman 4German 4 HGerman 5German 5 HItalian 1Italian 2Italian 3Japanese 1Japanese 2Japanese 3Japanese 3 HJapanese 4Japanese 4 HJapanese 5Latin 1Latin 2Latin 2 HLatin 3Latin 3 HLatin 4Latin 4 HPortuguese 1Portuguese 2Russian 1Russian 2Russian 3Russian 3 HSign Language 1Sign Language 2Sign Language 3Sign Language 4Spanish 1Spanish 1 HSpanish 2Spanish 2 HSpanish 3Spanish 3 HSpanish 4Spanish 4 HSpanish 5Spanish for Native Speakers (NS) 1Spanish for Native Speakers (NS) 2Spanish for Native Speakers (NS) 3Spanish for Native Speakers (NS) 4Other</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;courseId&quot;)</value>
+   </webElementProperties>
+</WebElementEntity>

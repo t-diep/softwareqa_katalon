@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_--Select Course--BYU In</name>
+   <tag></tag>
+   <elementGuidId>f1d51600-320e-4452-b37e-0414d4ae3b1b</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control modalCourseId</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>courseId</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>courseId</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>--Select Course--BYU Indep ENGL 045: Grade 10 English, Part 1BYU Indep ENGL 047: Grade 10 English, Part 2BYU Indep English 041 Grade 9 Eng 1BYU Indep English 043 Grade 9 Eng 2BYU Indep English 051: Grade 11 Eng 1BYU Indep English 053: Grade 11 Eng 2BYU Indep English 055: Grade 12 Eng 1BYU Indep English 057: Grade 12 Eng 2College Prep Language ArtsCollege Prep Writing HEnglish 10English 10 HEnglish 11English 11 HEnglish 12English 12 HEnglish 9English 9 HLanguage Arts 10Language Arts 10 HLanguage Arts 11Language Arts 11 HLanguage Arts 12Language Arts 12 CPLanguage Arts 12 HLanguage Arts 9Language Arts 9 HProfessional Reading and WritingOther</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;courseId&quot;)</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_--Select Course--Americ</name>
+   <tag></tag>
+   <elementGuidId>1fd4dc64-8cbd-4385-b603-1cb0444b08cf</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control modalCourseId</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>courseId</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>courseId</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>--Select Course--American Problem/US Gov &amp; CitAmerican ProblemsAmerican StudiesAmerican/US Government and CitizenshipAncient World CivilizationsAncient World HistoryAnthropologyBYU Indep Geog 041 Forces Shape WorldBYU Indep Geog 043 East. HemisphereBYU Indep Hist 041 US Hist to 1850BYU Indep Hist 043 US Hist from 1851BYU Indep Hist 066 World CivilizationsBYU Indep Hist 067 World History: Ancient CivilizationBYU Indep SOCSC 041: Current EventsBYU Indep SOCSC 051: SociologyCivics and GovernmentComparative World CulturesComparative World ReligionsCriminal JusticeCurrent EventsCurrent IssuesEastern CivilizationsEconomicsEuropean HistoryEuropean History HGeographyGeography for LifeGeography for Life HGeography HGovernment and CitizenshipGovernment and LawHistory - Europe MedievalHistory - Islam MedievalHistory - West AfricaHistory: Ancient PhilosophyHistory: Civil Rights MovementHuman GeographyIntroduction to PhilosophyMilitary HistoryModern HistoryModern World CivilizationsPhilosophyPoverty and Social ChangePsychologyPsychology 2Psychology APsychology HSociologySociology HSports PsychologyUS GovernmentUS Government and CitizenshipUS Government/Citizenship HUS HistoryUS History 2US History 2 HUS History HUS StudiesUS WarsUtah StudiesWestern CivilizationsWestern Civilizations HWorld Civilization Middle Age HWorld Civilization-MedievalWorld Civilization-Medieval HWorld CivilizationsWorld Civilizations 1World Civilizations 2World Civilizations 2 HWorld Civilizations HWorld Civilizations ModernWorld GeographyWorld Geography HWorld HistoryWorld History - EarlyWorld History - ModernWorld History HWorld StudiesWorld Studies HOther</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;courseId&quot;)</value>
+   </webElementProperties>
+</WebElementEntity>
